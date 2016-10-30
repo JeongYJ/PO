@@ -1,0 +1,487 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btn_time_down_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_time_down_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_stop_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_stop_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_save_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_save_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_pageone_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_pageone_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="panel_octave" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\panel_octave.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_time_down_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_time_down_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_menu_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_menu_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="note_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\note_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_16_note_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16_note_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_4_f_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4_f_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="note_sharp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\note_sharp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="g_4_note_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g_4_note_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_pagefour_dis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_pagefour_dis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_8_restnote" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8_restnote.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_load_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_load_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_octave_down_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_octave_down_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="madi_line" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\madi_line.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_start_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_start_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_pagefive_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_pagefive_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="syllablename_c" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\syllablename_c.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="panel_study" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\panel_study.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_1_s_note_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1_s_note_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_study_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_study_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_menu_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_menu_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_16_s_note_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16_s_note_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_s_strength_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_s_strength_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_4_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_stop_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_stop_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_4_restnote" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4_restnote.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="g_1_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g_1_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_closemenu_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_closemenu_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_1_f_note_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1_f_note_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_1_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="note_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\note_2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="background_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background_img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="strength" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\strength.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_load_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_load_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_16_s_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16_s_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="g_2_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g_2_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_closeform_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_closeform_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_8_f_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8_f_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_s_syllable_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_s_syllable_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_closemenu_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_closemenu_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_4_note_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4_note_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_2_note_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2_note_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_8_s_note_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8_s_note_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_ins_page_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_ins_page_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_2_f_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2_f_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="g_16_note_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g_16_note_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_study_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_study_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_8_s_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8_s_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_save_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_save_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_newfile_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_newfile_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Treble_clef1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Treble_clef1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_pagefour_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_pagefour_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_title_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_title_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_ins_page_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_ins_page_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_4_f_note_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4_f_note_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_16_restnote" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16_restnote.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_title_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_title_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_practice_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_practice_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_notitle_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_notitle_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="final_design" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\final_design.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_s_strength_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_s_strength_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_4_s_note_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4_s_note_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="emptymadi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\emptymadi.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_time_up_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_time_up_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_pagetwo_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_pagetwo_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_pagethree_dis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_pagethree_dis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_2_f_note_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2_f_note_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="note_flat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\note_flat.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="syllablename_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\syllablename_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_time_up_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_time_up_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_start_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_start_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_2_s_note_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2_s_note_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_practice_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_practice_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_1_note_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1_note_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="g_4_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g_4_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_octave_down_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_octave_down_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_8_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="g_8_note_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g_8_note_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_pagefive_dis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_pagefive_dis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_notitle_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_notitle_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_s_note_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_s_note_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="panel_time" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\panel_time.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="g_16_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g_16_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="panel_menu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\panel_menu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_2_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_pageone_dis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_pageone_dis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_4_s_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4_s_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_pagetwo_dis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_pagetwo_dis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_pageone_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_pageone_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_1_f_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1_f_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="g_2_note_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g_2_note_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_pagefour_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_pagefour_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_octave_up_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_octave_up_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_2_s_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2_s_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_newfile_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_newfile_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_s_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_s_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_1_s_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1_s_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_s_syllable_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_s_syllable_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_closeform_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_closeform_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_16_f_note_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16_f_note_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_pagethree_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_pagethree_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_octave_up_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_octave_up_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_8_note_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8_note_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_pagetwo_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_pagetwo_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="strength_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\strength_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="music_score" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1893625827_QAKZTSu8_21.ECA491EAB3A0EB93B1EBB680_EC98A4EC84A0ECA780_EB85B8ED8AB8-EB82B4ECA780_web_2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_16_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="연습하기" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\연습하기.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_16_f_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16_f_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_8_f_note_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8_f_note_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="g_1_note_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g_1_note_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_pagefive_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_pagefive_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="g_8_note_orig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g_8_note_orig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_pagethree_push" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_pagethree_push.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="trainning" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\trainning.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="octave_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\octave_0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="octave_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\octave_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="octave_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\octave_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

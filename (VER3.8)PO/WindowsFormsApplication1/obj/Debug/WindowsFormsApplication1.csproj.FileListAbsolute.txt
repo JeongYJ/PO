@@ -1,0 +1,351 @@
+c:\users\nestnet\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\nestnet\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\nestnet\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\nestnet\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\nestnet\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\nestnet\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\nestnet\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\nestnet\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\nestnet\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\(VER1.1)PO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP\Desktop\(VER1.1)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\(VER1.1)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\(VER1.1)PO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\(VER1.1)PO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\(VER1.1)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\(VER1.1)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP\Desktop\(VER1.1)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\Desktop\(VER1.1)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\(VER1.2)PO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP\Desktop\(VER1.2)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\(VER1.2)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\(VER1.2)PO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\(VER1.2)PO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\(VER1.2)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\(VER1.2)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP\Desktop\(VER1.2)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\Desktop\(VER1.2)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\(VER1.3)PO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP\Desktop\(VER1.3)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\(VER1.3)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\(VER1.3)PO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\(VER1.3)PO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\(VER1.3)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\(VER1.3)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP\Desktop\(VER1.3)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\Desktop\(VER1.3)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\현수\Desktop\프로젝트\연계전공_피오(피아노 오선지)\(VER1.4)PO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\현수\Desktop\프로젝트\연계전공_피오(피아노 오선지)\(VER1.4)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\현수\Desktop\프로젝트\연계전공_피오(피아노 오선지)\(VER1.4)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\현수\Desktop\프로젝트\연계전공_피오(피아노 오선지)\(VER1.4)PO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\현수\Desktop\프로젝트\연계전공_피오(피아노 오선지)\(VER1.4)PO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\현수\Desktop\프로젝트\연계전공_피오(피아노 오선지)\(VER1.4)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\현수\Desktop\프로젝트\연계전공_피오(피아노 오선지)\(VER1.4)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\현수\Desktop\프로젝트\연계전공_피오(피아노 오선지)\(VER1.4)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\현수\Desktop\프로젝트\연계전공_피오(피아노 오선지)\(VER1.4)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\kimminyoung\Desktop\PO\(VER1.5)PO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\kimminyoung\Desktop\PO\(VER1.5)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\kimminyoung\Desktop\PO\(VER1.5)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\kimminyoung\Desktop\PO\(VER1.5)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\kimminyoung\Desktop\PO\(VER1.5)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\kimminyoung\Desktop\PO\(VER1.5)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\kimminyoung\Desktop\PO\(VER1.5)PO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\kimminyoung\Desktop\PO\(VER1.5)PO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\kimminyoung\Desktop\PO\(VER1.5)PO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER1.7)PO_김\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER1.7)PO_김\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER1.7)PO_김\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER1.7)PO_김\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER1.7)PO_김\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER1.7)PO_김\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER1.7)PO_김\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER1.7)PO_김\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER1.7)PO_김\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER1.7)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER1.7)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER1.7)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER1.7)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER1.7)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER1.7)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER1.7)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER1.7)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER1.7)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\kimminyoung\Desktop\PO\20160105\(VER1.8)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\kimminyoung\Desktop\PO\20160105\(VER1.8)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\kimminyoung\Desktop\PO\20160105\(VER1.8)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\kimminyoung\Desktop\PO\20160105\(VER1.8)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\kimminyoung\Desktop\PO\20160105\(VER1.8)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\kimminyoung\Desktop\PO\20160105\(VER1.8)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\kimminyoung\Desktop\PO\20160105\(VER1.8)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\kimminyoung\Desktop\PO\20160105\(VER1.8)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\kimminyoung\Desktop\PO\20160105\(VER1.8)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\kimminyoung\Desktop\PO\20160105\(VER1.8)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.selectMusic.resources
+C:\Users\HP\Desktop\P.O\(VER1.9)PO_김\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP\Desktop\P.O\(VER1.9)PO_김\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\P.O\(VER1.9)PO_김\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\P.O\(VER1.9)PO_김\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\P.O\(VER1.9)PO_김\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP\Desktop\P.O\(VER1.9)PO_김\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\Desktop\P.O\(VER1.9)PO_김\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.selectMusic.resources
+C:\Users\HP\Desktop\P.O\(VER1.9)PO_김\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\P.O\(VER1.9)PO_김\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\P.O\(VER1.9)PO_김\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\P.O\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP\Desktop\P.O\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\P.O\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\P.O\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\P.O\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\P.O\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\P.O\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP\Desktop\P.O\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\Desktop\P.O\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.selectMusic.resources
+C:\Users\HP\Desktop\P.O\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Yim\Desktop\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Yim\Desktop\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Yim\Desktop\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yim\Desktop\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Yim\Desktop\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yim\Desktop\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Yim\Desktop\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Yim\Desktop\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Yim\Desktop\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.selectMusic.resources
+C:\Users\Yim\Desktop\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Yim\Desktop\(VER2.0)PO_정\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.1)PO_임\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.1)PO_임\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.1)PO_임\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.1)PO_임\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.1)PO_임\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.1)PO_임\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.1)PO_임\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.1)PO_임\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.1)PO_임\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.1)PO_임\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.selectMusic.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.1)PO_임\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.2)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.2)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.2)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.2)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.2)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.2)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.2)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.2)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.2)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.2)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.selectMusic.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.2)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.3)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.3)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.3)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.3)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.3)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.3)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.3)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.3)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.3)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.3)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.selectMusic.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.3)PO_배\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\P.O\(VER2.3)PO_배(마디수정)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP\Desktop\P.O\(VER2.3)PO_배(마디수정)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\P.O\(VER2.3)PO_배(마디수정)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\P.O\(VER2.3)PO_배(마디수정)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\P.O\(VER2.3)PO_배(마디수정)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\P.O\(VER2.3)PO_배(마디수정)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\P.O\(VER2.3)PO_배(마디수정)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP\Desktop\P.O\(VER2.3)PO_배(마디수정)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\HP\Desktop\P.O\(VER2.3)PO_배(마디수정)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\Desktop\P.O\(VER2.3)PO_배(마디수정)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.selectMusic.resources
+C:\Users\HP\Desktop\P.O\(VER2.3)PO_배(마디수정)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\kimminyoung\Desktop\PO\(VER2.4)PO_정(UI수정)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\kimminyoung\Desktop\PO\(VER2.4)PO_정(UI수정)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\kimminyoung\Desktop\PO\(VER2.4)PO_정(UI수정)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\kimminyoung\Desktop\PO\(VER2.4)PO_정(UI수정)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\kimminyoung\Desktop\PO\(VER2.4)PO_정(UI수정)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\kimminyoung\Desktop\PO\(VER2.4)PO_정(UI수정)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\kimminyoung\Desktop\PO\(VER2.4)PO_정(UI수정)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\kimminyoung\Desktop\PO\(VER2.4)PO_정(UI수정)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\kimminyoung\Desktop\PO\(VER2.4)PO_정(UI수정)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\kimminyoung\Desktop\PO\(VER2.4)PO_정(UI수정)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\kimminyoung\Desktop\PO\(VER2.4)PO_정(UI수정)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.trainningForm.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.5)PO_김\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.5)PO_김\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.5)PO_김\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.5)PO_김\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.5)PO_김\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.5)PO_김\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.5)PO_김\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.5)PO_김\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.5)PO_김\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.5)PO_김\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.trainningForm.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.5)PO_김\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.6)PO_배\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.6)PO_배\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.6)PO_배\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.6)PO_배\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.6)PO_배\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.6)PO_배\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.6)PO_배\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.6)PO_배\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.trainningForm.resources
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.6)PO_배\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.6)PO_배\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\현수\Desktop\프로젝트\연계전공\연계전공_피오(피아노 오선지)\(VER2.6)PO_배\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yim\Desktop\(VER2.7)PO_배(새파일 생성)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Yim\Desktop\(VER2.7)PO_배(새파일 생성)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Yim\Desktop\(VER2.7)PO_배(새파일 생성)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yim\Desktop\(VER2.7)PO_배(새파일 생성)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Yim\Desktop\(VER2.7)PO_배(새파일 생성)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yim\Desktop\(VER2.7)PO_배(새파일 생성)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Yim\Desktop\(VER2.7)PO_배(새파일 생성)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Yim\Desktop\(VER2.7)PO_배(새파일 생성)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Yim\Desktop\(VER2.7)PO_배(새파일 생성)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Yim\Desktop\(VER2.7)PO_배(새파일 생성)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.trainningForm.resources
+C:\Users\Yim\Desktop\(VER2.7)PO_배(새파일 생성)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Yim\Desktop\(VER2.8)PO_임(음표위치수정)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Yim\Desktop\(VER2.8)PO_임(음표위치수정)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Yim\Desktop\(VER2.8)PO_임(음표위치수정)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yim\Desktop\(VER2.8)PO_임(음표위치수정)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Yim\Desktop\(VER2.8)PO_임(음표위치수정)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yim\Desktop\(VER2.8)PO_임(음표위치수정)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Yim\Desktop\(VER2.8)PO_임(음표위치수정)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Yim\Desktop\(VER2.8)PO_임(음표위치수정)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Yim\Desktop\(VER2.8)PO_임(음표위치수정)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Yim\Desktop\(VER2.8)PO_임(음표위치수정)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.trainningForm.resources
+C:\Users\Yim\Desktop\(VER2.8)PO_임(음표위치수정)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\P.O\(VER2.9)PO_임(마디선)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP\Desktop\P.O\(VER2.9)PO_임(마디선)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\P.O\(VER2.9)PO_임(마디선)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\P.O\(VER2.9)PO_임(마디선)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\P.O\(VER2.9)PO_임(마디선)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\P.O\(VER2.9)PO_임(마디선)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\P.O\(VER2.9)PO_임(마디선)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP\Desktop\P.O\(VER2.9)PO_임(마디선)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\HP\Desktop\P.O\(VER2.9)PO_임(마디선)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\Desktop\P.O\(VER2.9)PO_임(마디선)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.trainningForm.resources
+C:\Users\HP\Desktop\P.O\(VER2.9)PO_임(마디선)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\P.O\(VER3.0)PO_정(UI수정중)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP\Desktop\P.O\(VER3.0)PO_정(UI수정중)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\P.O\(VER3.0)PO_정(UI수정중)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\P.O\(VER3.0)PO_정(UI수정중)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\P.O\(VER3.0)PO_정(UI수정중)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\P.O\(VER3.0)PO_정(UI수정중)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\P.O\(VER3.0)PO_정(UI수정중)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP\Desktop\P.O\(VER3.0)PO_정(UI수정중)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\HP\Desktop\P.O\(VER3.0)PO_정(UI수정중)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\Desktop\P.O\(VER3.0)PO_정(UI수정중)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.trainningForm.resources
+C:\Users\HP\Desktop\P.O\(VER3.0)PO_정(UI수정중)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.trainningForm.resources
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.DirectPlay.dll
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.dll
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.xml
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.DirectPlay.xml
+C:\Users\HP\Desktop\P.O\(VER3.2)PO_정(UI수정중)\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\kimminyoung\Desktop\PO\ver3.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\kimminyoung\Desktop\PO\ver3.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\kimminyoung\Desktop\PO\ver3.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\kimminyoung\Desktop\PO\ver3.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\kimminyoung\Desktop\PO\ver3.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\kimminyoung\Desktop\PO\ver3.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\kimminyoung\Desktop\PO\ver3.3\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.xml
+C:\Users\kimminyoung\Desktop\PO\ver3.3\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\kimminyoung\Desktop\PO\ver3.3\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.DirectPlay.xml
+C:\Users\kimminyoung\Desktop\PO\ver3.3\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\kimminyoung\Desktop\PO\ver3.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\kimminyoung\Desktop\PO\ver3.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\kimminyoung\Desktop\PO\ver3.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\kimminyoung\Desktop\PO\ver3.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\kimminyoung\Desktop\PO\ver3.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.trainningForm.resources
+C:\Users\kimminyoung\Desktop\PO\ver3.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Yim\Desktop\(VER3.4)PO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Yim\Desktop\(VER3.4)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Yim\Desktop\(VER3.4)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Yim\Desktop\(VER3.4)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yim\Desktop\(VER3.4)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Yim\Desktop\(VER3.4)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Yim\Desktop\(VER3.4)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Yim\Desktop\(VER3.4)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Yim\Desktop\(VER3.4)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.trainningForm.resources
+C:\Users\Yim\Desktop\(VER3.4)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Yim\Desktop\(VER3.4)PO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Yim\Desktop\(VER3.4)PO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yim\Desktop\(VER3.4)PO\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Yim\Desktop\(VER3.4)PO\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Yim\Desktop\(VER3.4)PO\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.DirectPlay.xml
+C:\Users\Yim\Desktop\(VER3.4)PO\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\Yim\Desktop\(VER3.5)PO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Yim\Desktop\(VER3.5)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Yim\Desktop\(VER3.5)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Yim\Desktop\(VER3.5)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yim\Desktop\(VER3.5)PO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Yim\Desktop\(VER3.5)PO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yim\Desktop\(VER3.5)PO\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Yim\Desktop\(VER3.5)PO\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Yim\Desktop\(VER3.5)PO\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.DirectPlay.xml
+C:\Users\Yim\Desktop\(VER3.5)PO\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\Yim\Desktop\(VER3.5)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Yim\Desktop\(VER3.5)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Yim\Desktop\(VER3.5)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Yim\Desktop\(VER3.5)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Yim\Desktop\(VER3.5)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.trainningForm.resources
+C:\Users\Yim\Desktop\(VER3.5)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Yim\Desktop\(VER3.6)PO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Yim\Desktop\(VER3.6)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Yim\Desktop\(VER3.6)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Yim\Desktop\(VER3.6)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yim\Desktop\(VER3.6)PO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Yim\Desktop\(VER3.6)PO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yim\Desktop\(VER3.6)PO\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Yim\Desktop\(VER3.6)PO\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Yim\Desktop\(VER3.6)PO\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.DirectPlay.xml
+C:\Users\Yim\Desktop\(VER3.6)PO\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\Yim\Desktop\(VER3.6)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Yim\Desktop\(VER3.6)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Yim\Desktop\(VER3.6)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Yim\Desktop\(VER3.6)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Yim\Desktop\(VER3.6)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.trainningForm.resources
+C:\Users\Yim\Desktop\(VER3.6)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Yim\Desktop\(VER3.7)PO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Yim\Desktop\(VER3.7)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Yim\Desktop\(VER3.7)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Yim\Desktop\(VER3.7)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yim\Desktop\(VER3.7)PO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Yim\Desktop\(VER3.7)PO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yim\Desktop\(VER3.7)PO\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Yim\Desktop\(VER3.7)PO\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Yim\Desktop\(VER3.7)PO\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.DirectPlay.xml
+C:\Users\Yim\Desktop\(VER3.7)PO\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\Yim\Desktop\(VER3.7)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Yim\Desktop\(VER3.7)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Yim\Desktop\(VER3.7)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Yim\Desktop\(VER3.7)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Yim\Desktop\(VER3.7)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.trainningForm.resources
+C:\Users\Yim\Desktop\(VER3.7)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Yim\Desktop\(VER3.8)PO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Yim\Desktop\(VER3.8)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Yim\Desktop\(VER3.8)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Yim\Desktop\(VER3.8)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yim\Desktop\(VER3.8)PO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Yim\Desktop\(VER3.8)PO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yim\Desktop\(VER3.8)PO\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Yim\Desktop\(VER3.8)PO\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Yim\Desktop\(VER3.8)PO\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.DirectPlay.xml
+C:\Users\Yim\Desktop\(VER3.8)PO\WindowsFormsApplication1\bin\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\Yim\Desktop\(VER3.8)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Yim\Desktop\(VER3.8)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Yim\Desktop\(VER3.8)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Yim\Desktop\(VER3.8)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Yim\Desktop\(VER3.8)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.trainningForm.resources
+C:\Users\Yim\Desktop\(VER3.8)PO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
